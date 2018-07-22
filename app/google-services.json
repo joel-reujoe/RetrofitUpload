@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "189275115167",
+    "firebase_url": "https://istats-dev.firebaseio.com",
+    "project_id": "istats-dev",
+    "storage_bucket": "istats-dev.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:189275115167:android:7a3e39cc7db71294",
+        "android_client_info": {
+          "package_name": "com.example.joel.retrofitupload"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "189275115167-f0f06it9saqp1uqiqensas05b1um62uf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_9nfI9qxKngyEsARkoghdpEiwv4sR5mo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
